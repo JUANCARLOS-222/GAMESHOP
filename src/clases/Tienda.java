@@ -1,4 +1,4 @@
-package tienda;
+package clases;
 
 public class Tienda {
 	
