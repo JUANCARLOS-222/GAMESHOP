@@ -6,6 +6,7 @@ public class MAIN {
 		System.out.println("MENU");
 		System.out.println("HOLA");
 		System.out.println("BUENAS");
+		System.out.println("Holiwis");
 
 	}
 
