@@ -7,6 +7,7 @@ import java.util.regex.Pattern;
 public class MAIN {
 static Scanner lector = new Scanner(System.in);
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		System.out.println("Bienvenido a JAC'Games'");
 		lector.nextLine();
 		
@@ -38,6 +39,12 @@ static Scanner lector = new Scanner(System.in);
 		
 		
 		
+=======
+		System.out.println("MENU");
+		System.out.println("HOLA");
+		System.out.println("BUENAS");
+		System.out.println("Holiwis");
+>>>>>>> dc5d1fbd60a1073e7e31ca973d935713855461f0
 
 	}
 
